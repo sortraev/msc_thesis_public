@@ -1,2 +1,3 @@
 # msc_thesis_public
-Public repo for my master's thesis
+
+Appendices to my master's thesis report.
